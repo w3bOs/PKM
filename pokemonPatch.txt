@@ -1,0 +1,1150 @@
+"
+GEN 1<\/a><\/div>
+001 Bulbasaur <\/div>
+002 Ivysaur <\/div>
+003 Venusaur <\/div>
+003 Mega Venusaur <\/div>
+004 Charmander <\/div>
+005 Charmeleon <\/div>
+006 Charizard <\/div>
+006 Mega Charizard X<\/div>
+006 Mega Charizard Y<\/div>
+007 Squirtle <\/div>
+008 Wartortle <\/div>
+009 Blastoise <\/div>
+009 Mega Blastoise <\/div>
+010 Caterpie <\/div>
+011 Metapod <\/div>
+012 Butterfree <\/div>
+013 Weedle <\/div>
+014 Kakuna <\/div>
+015 Beedrill <\/div>
+015 Mega Beedrill <\/div>
+016 Pidgey <\/div>
+017 Pidgeotto <\/div>
+018 Pidgeot <\/div>
+018 Mega Pidgeot <\/div>
+019 Rattata <\/div>
+019 Rattata (Alolan)<\/div>
+020 Raticate <\/div>
+020 Raticate (Alolan)<\/div>
+021 Spearow <\/div>
+022 Fearow <\/div>
+023 Ekans <\/div>
+024 Arbok <\/div>
+025 Pikachu <\/div>
+026 Raichu <\/div>
+026 Raichu (Alolan)<\/div>
+027 Sandshrew <\/div>
+027 Sandshrew (Alolan)<\/div>
+028 Sandslash <\/div>
+028 Sandslash (Alolan)<\/div>
+029 Nidoran\u2640 <\/div>
+030 Nidorina <\/div>
+031 Nidoqueen <\/div>
+032 Nidoran\u2642 <\/div>
+033 Nidorino <\/div>
+034 Nidoking <\/div>
+035 Clefairy <\/div>
+036 Clefable <\/div>
+037 Vulpix <\/div>
+037 Vulpix (Alolan)<\/div>
+038 Ninetales <\/div>
+038 Ninetales (Alolan)<\/div>
+039 Jigglypuff <\/div>
+040 Wigglytuff <\/div>
+041 Zubat <\/div>
+042 Golbat <\/div>
+043 Oddish <\/div>
+044 Gloom <\/div>
+045 Vileplume <\/div>
+046 Paras <\/div>
+047 Parasect <\/div>
+048 Venonat <\/div>
+049 Venomoth <\/div>
+050 Diglett <\/div>
+050 Diglett (Alolan)<\/div>
+051 Dugtrio <\/div>
+051 Dugtrio (Alolan)<\/div>
+052 Meowth <\/div>
+052 Meowth (Alolan)<\/div>
+053 Persian <\/div>
+053 Persian (Alolan)<\/div>
+054 Psyduck <\/div>
+055 Golduck <\/div>
+056 Mankey <\/div>
+057 Primeape <\/div>
+058 Growlithe <\/div>
+059 Arcanine <\/div>
+060 Poliwag <\/div>
+061 Poliwhirl <\/div>
+062 Poliwrath <\/div>
+063 Abra <\/div>
+064 Kadabra <\/div>
+065 Alakazam <\/div>
+065 Mega Alakazam <\/div>
+066 Machop <\/div>
+067 Machoke <\/div>
+068 Machamp <\/div>
+069 Bellsprout <\/div>
+070 Weepinbell <\/div>
+071 Victreebel <\/div>
+072 Tentacool <\/div>
+073 Tentacruel <\/div>
+074 Geodude <\/div>
+074 Geodude (Alolan)<\/div>
+075 Graveler <\/div>
+075 Graveler (Alolan)<\/div>
+076 Golem <\/div>
+076 Golem (Alolan)<\/div>
+077 Ponyta <\/div>
+078 Rapidash <\/div>
+079 Slowpoke <\/div>
+080 Slowbro <\/div>
+080 Mega Slowbro <\/div>
+081 Magnemite <\/div>
+082 Magneton <\/div>
+083 Farfetch\u2019d <\/div>
+084 Doduo <\/div>
+085 Dodrio <\/div>
+086 Seel <\/div>
+087 Dewgong <\/div>
+088 Grimer <\/div>
+088 Grimer (Alolan)<\/div>
+089 Muk <\/div>
+089 Muk (Alolan)<\/div>
+090 Shellder <\/div>
+091 Cloyster <\/div>
+092 Gastly <\/div>
+093 Haunter <\/div>
+094 Gengar <\/div>
+094 Mega Gengar <\/div>
+095 Onix <\/div>
+096 Drowzee <\/div>
+097 Hypno <\/div>
+098 Krabby <\/div>
+099 Kingler <\/div>
+100 Voltorb <\/div>
+101 Electrode <\/div>
+102 Exeggcute <\/div>
+103 Exeggutor <\/div>
+103 Exeggutor (Alolan)<\/div>
+104 Cubone <\/div>
+105 Marowak <\/div>
+105 Marowak (Alolan)<\/div>
+106 Hitmonlee <\/div>
+107 Hitmonchan <\/div>
+108 Lickitung <\/div>
+109 Koffing <\/div>
+110 Weezing <\/div>
+111 Rhyhorn <\/div>
+112 Rhydon <\/div>
+113 Chansey <\/div>
+114 Tangela <\/div>
+115 Kangaskhan <\/div>
+115 Mega Kangaskhan <\/div>
+116 Horsea <\/div>
+117 Seadra <\/div>
+118 Goldeen <\/div>
+119 Seaking <\/div>
+120 Staryu <\/div>
+121 Starmie <\/div>
+122 Mr. Mime <\/div>
+123 Scyther <\/div>
+124 Jynx <\/div>
+125 Electabuzz <\/div>
+126 Magmar <\/div>
+127 Pinsir <\/div>
+127 Mega Pinsir <\/div>
+128 Tauros <\/div>
+129 Magikarp <\/div>
+130 Gyarados <\/div>
+130 Mega Gyarados <\/div>
+131 Lapras <\/div>
+132 Ditto <\/div>
+133 Eevee <\/div>
+134 Vaporeon <\/div>
+135 Jolteon <\/div>
+136 Flareon <\/div>
+137 Porygon <\/div>
+138 Omanyte <\/div>
+139 Omastar <\/div>
+140 Kabuto <\/div>
+141 Kabutops <\/div>
+142 Aerodactyl <\/div>
+142 Mega Aerodactyl <\/div>
+143 Snorlax <\/div>
+144 Articuno <\/div>
+145 Zapdos <\/div>
+146 Moltres <\/div>
+147 Dratini <\/div>
+148 Dragonair <\/div>
+149 Dragonite <\/div>
+150 Mewtwo <\/div>
+150 Mega Mewtwo X<\/div>
+150 Mega Mewtwo Y <\/div>
+150 Armored Mewtwo (1998)<\/div>
+150 Armored Mewtwo (2019)<\/div>
+151 Mew <\/div>
+GEN 2<\/a><\/div>
+152 Chikorita <\/div>
+153 Bayleef <\/div>
+154 Meganium <\/div>
+155 Cyndaquil <\/div>
+156 Quilava <\/div>
+157 Typhlosion <\/div>
+158 Totodile <\/div>
+159 Croconaw <\/div>
+160 Feraligatr <\/div>
+161 Sentret <\/div>
+162 Furret <\/div>
+163 Hoothoot <\/div>
+164 Noctowl <\/div>
+165 Ledyba <\/div>
+166 Ledian <\/div>
+167 Spinarak <\/div>
+168 Ariados <\/div>
+169 Crobat <\/div>
+170 Chinchou <\/div>
+171 Lanturn <\/div>
+172 Pichu <\/div>
+173 Cleffa <\/div>
+174 Igglybuff <\/div>
+175 Togepi <\/div>
+176 Togetic <\/div>
+177 Natu <\/div>
+178 Xatu <\/div>
+179 Mareep <\/div>
+180 Flaaffy <\/div>
+181 Ampharos <\/div>
+181 Mega Ampharos <\/div>
+182 Bellossom <\/div>
+183 Marill <\/div>
+184 Azumarill <\/div>
+185 Sudowoodo <\/div>
+186 Politoed <\/div>
+187 Hoppip <\/div>
+188 Skiploom <\/div>
+189 Jumpluff <\/div>
+190 Aipom <\/div>
+191 Sunkern <\/div>
+192 Sunflora <\/div>
+193 Yanma <\/div>
+194 Wooper <\/div>
+195 Quagsire <\/div>
+196 Espeon <\/div>
+197 Umbreon <\/div>
+198 Murkrow <\/div>
+199 Slowking <\/div>
+200 Misdreavus <\/div>
+201 Unown <\/div>
+202 Wobbuffet <\/div>
+203 Girafarig <\/div>
+204 Pineco <\/div>
+205 Forretress <\/div>
+206 Dunsparce <\/div>
+207 Gligar <\/div>
+208 Steelix <\/div>
+208 Mega Steelix <\/div>
+209 Snubbull <\/div>
+210 Granbull <\/div>
+211 Qwilfish <\/div>
+212 Scizor <\/div>
+212 Mega Scizor <\/div>
+213 Shuckle <\/div>
+214 Heracross <\/div>
+214 Mega Heracross <\/div>
+215 Sneasel <\/div>
+216 Teddiursa <\/div>
+217 Ursaring <\/div>
+218 Slugma <\/div>
+219 Magcargo <\/div>
+220 Swinub <\/div>
+221 Piloswine <\/div>
+222 Corsola <\/div>
+223 Remoraid <\/div>
+224 Octillery <\/div>
+225 Delibird <\/div>
+226 Mantine <\/div>
+227 Skarmory <\/div>
+228 Houndour <\/div>
+229 Houndoom <\/div>
+229 Mega Houndoom <\/div>
+230 Kingdra <\/div>
+231 Phanpy <\/div>
+232 Donphan <\/div>
+233 Porygon2 <\/div>
+234 Stantler <\/div>
+235 Smeargle <\/div>
+236 Tyrogue <\/div>
+237 Hitmontop <\/div>
+238 Smoochum <\/div>
+239 Elekid <\/div>
+240 Magby <\/div>
+241 Miltank <\/div>
+242 Blissey <\/div>
+243 Raikou <\/div>
+244 Entei <\/div>
+245 Suicune <\/div>
+246 Larvitar <\/div>
+247 Pupitar <\/div>
+248 Tyranitar <\/div>
+248 Mega Tyranitar <\/div>
+249 Lugia <\/div>
+250 Ho-Oh <\/div>
+251 Celebi <\/div>
+GEN 3<\/a><\/div>
+252 Treecko <\/div>
+253 Grovyle <\/div>
+254 Sceptile <\/div>
+254 Mega Sceptile <\/div>
+255 Torchic <\/div>
+256 Combusken <\/div>
+257 Blaziken <\/div>
+257 Mega Blaziken <\/div>
+258 Mudkip <\/div>
+259 Marshtomp <\/div>
+260 Swampert <\/div>
+260 Mega Swampert <\/div>
+261 Poochyena <\/div>
+262 Mightyena <\/div>
+263 Zigzagoon <\/div>
+264 Linoone <\/div>
+265 Wurmple <\/div>
+266 Silcoon <\/div>
+267 Beautifly <\/div>
+268 Cascoon <\/div>
+269 Dustox <\/div>
+270 Lotad <\/div>
+271 Lombre <\/div>
+272 Ludicolo <\/div>
+273 Seedot <\/div>
+274 Nuzleaf <\/div>
+275 Shiftry <\/div>
+276 Taillow <\/div>
+277 Swellow <\/div>
+278 Wingull <\/div>
+279 Pelipper <\/div>
+280 Ralts <\/div>
+281 Kirlia <\/div>
+282 Gardevoir <\/div>
+283 Surskit <\/div>
+284 Masquerain <\/div>
+285 Shroomish <\/div>
+286 Breloom <\/div>
+287 Slakoth <\/div>
+288 Vigoroth <\/div>
+289 Slaking <\/div>
+290 Nincada <\/div>
+291 Ninjask <\/div>
+292 Shedinja <\/div>
+293 Whismur <\/div>
+294 Loudred <\/div>
+295 Exploud <\/div>
+296 Makuhita <\/div>
+297 Hariyama <\/div>
+298 Azurill <\/div>
+299 Nosepass <\/div>
+300 Skitty <\/div>
+301 Delcatty <\/div>
+302 Sableye <\/div>
+302 Mega Sableye <\/div>
+303 Mawile <\/div>
+303 Mega Mawile <\/div>
+304 Aron <\/div>
+305 Lairon <\/div>
+306 Aggron <\/div>
+306 Mega Aggron <\/div>
+307 Meditite <\/div>
+308 Medicham <\/div>
+308 Mega Medicham <\/div>
+309 Electrike <\/div>
+310 Manectric <\/div>
+310 Mega Manectric <\/div>
+311 Plusle <\/div>
+312 Minun <\/div>
+313 Volbeat <\/div>
+314 Illumise <\/div>
+315 Roselia <\/div>
+316 Gulpin <\/div>
+317 Swalot <\/div>
+318 Carvanha <\/div>
+319 Sharpedo <\/div>
+319 Mega Sharpedo <\/div>
+320 Wailmer <\/div>
+321 Wailord <\/div>
+322 Numel <\/div>
+323 Camerupt <\/div>
+323 Mega Camerupt <\/div>
+324 Torkoal <\/div>
+325 Spoink <\/div>
+326 Grumpig <\/div>
+327 Spinda <\/div>
+328 Trapinch <\/div>
+329 Vibrava <\/div>
+330 Flygon <\/div>
+331 Cacnea <\/div>
+332 Cacturne <\/div>
+333 Swablu <\/div>
+334 Altaria <\/div>
+334 Mega Altaria<\/div>
+335 Zangoose <\/div>
+336 Seviper <\/div>
+337 Lunatone <\/div>
+338 Solrock <\/div>
+339 Barboach <\/div>
+340 Whiscash <\/div>
+341 Corphish <\/div>
+342 Crawdaunt <\/div>
+343 Baltoy <\/div>
+344 Claydol <\/div>
+345 Lileep <\/div>
+346 Cradily <\/div>
+347 Anorith <\/div>
+348 Armaldo <\/div>
+349 Feebas <\/div>
+350 Milotic <\/div>
+351 Castform <\/div>
+351 Castform (Snowy)<\/div>
+351 Castform (Rainy)<\/div>
+351 Castform (Sunny)<\/div>
+352 Kecleon <\/div>
+353 Shuppet <\/div>
+354 Banette <\/div>
+354 Mega Banette <\/div>
+355 Duskull <\/div>
+356 Dusclops <\/div>
+357 Tropius <\/div>
+358 Chimecho <\/div>
+359 Absol <\/div>
+359 Mega Absol <\/div>
+360 Wynaut <\/div>
+361 Snorunt <\/div>
+362 Glalie <\/div>
+362 Mega Glalie <\/div>
+363 Spheal <\/div>
+364 Sealeo <\/div>
+365 Walrein <\/div>
+366 Clamperl <\/div>
+367 Huntail <\/div>
+368 Gorebyss <\/div>
+369 Relicanth <\/div>
+370 Luvdisc <\/div>
+371 Bagon <\/div>
+372 Shelgon <\/div>
+373 Salamence <\/div>
+373 Mega Salamence <\/div>
+374 Beldum <\/div>
+375 Metang <\/div>
+376 Metagross <\/div>
+376 Mega Metagross <\/div>
+377 Regirock <\/div>
+378 Regice <\/div>
+379 Registeel <\/div>
+380 Latias <\/div>
+380 Mega Latias <\/div>
+381 Latios <\/div>
+381 Mega Latios <\/div>
+382 Kyogre <\/div>
+382 Primal Kyogre<\/div>
+383 Groudon <\/div>
+383 Primal Groudon<\/div>
+384 Rayquaza <\/div>
+384 Mega Rayquaza <\/div>
+385 Jirachi <\/div>
+386 Deoxys <\/div>
+386 Deoxys (Attack)<\/div>
+386 Deoxys (Defense)<\/div>
+386 Deoxys (Normal)<\/div>
+386 Deoxys (Speed)<\/div>
+GEN 4<\/div>
+387 Turtwig <\/div>
+388 Grotle <\/div>
+389 Torterra <\/div>
+390 Chimchar <\/div>
+391 Monferno <\/div>
+392 Infernape <\/div>
+393 Piplup <\/div>
+394 Prinplup <\/div>
+<\/a><\/div>
+395 Empoleon <\/div>
+396 Starly <\/div>
+397 Staravia <\/div>
+398 Staraptor <\/div>
+399 Bidoof <\/div>
+400 Bibarel <\/div>
+401 Kricketot <\/div>
+402 Kricketune <\/div>
+403 Shinx <\/div>
+404 Luxio <\/div>
+405 Luxray <\/div>
+406 Budew <\/div>
+407 Roserade <\/div>
+408 Cranidos <\/div>
+409 Rampardos <\/div>
+410 Shieldon <\/div>
+411 Bastiodon <\/div>
+412 Burmy <\/div>
+412 Burmy (Trash)<\/div>
+412 Burmy (Sand)<\/div>
+413 Wormadam <\/div>
+413 Wormadam (Trash)<\/div>
+413 Wormadam (Sand)<\/div>
+414 Mothim <\/div>
+415 Combee <\/div>
+416 Vespiquen <\/div>
+417 Pachirisu <\/div>
+418 Buizel <\/div>
+419 Floatzel <\/div>
+420 Cherubi <\/div>
+421 Cherrim <\/div>
+421 Cherrim (Overcast)<\/div>
+422 Shellos <\/div>
+422 Shellos (East Sea)<\/div>
+423 Gastrodon <\/div>
+423 Gastrodon (East Sea)<\/div>
+424 Ambipom <\/div>
+425 Drifloon <\/div>
+426 Drifblim <\/div>
+427 Buneary <\/div>
+427 Mega Lopunny <\/div>
+428 Lopunny <\/div>
+429 Mismagius <\/div>
+430 Honchkrow <\/div>
+431 Glameow <\/div>
+432 Purugly <\/div>
+433 Chingling <\/div>
+434 Stunky <\/div>
+435 Skuntank <\/div>
+436 Bronzor <\/div>
+437 Bronzong <\/div>
+438 Bonsly <\/div>
+439 Mime Jr. <\/div>
+440 Happiny <\/div>
+441 Chatot <\/div>
+442 Spiritomb <\/div>
+443 Gible <\/div>
+444 Gabite <\/div>
+444 Mega Garchomp <\/div>
+445 Garchomp <\/div>
+446 Munchlax <\/div>
+447 Riolu <\/div>
+447 Mega Lucario <\/div>
+448 Lucario <\/div>
+449 Hippopotas <\/div>
+450 Hippowdon <\/div>
+451 Skorupi <\/div>
+452 Drapion <\/div>
+453 Croagunk <\/div>
+454 Toxicroak <\/div>
+455 Carnivine <\/div>
+456 Finneon <\/div>
+457 Lumineon <\/div>
+458 Mantyke <\/div>
+459 Snover <\/div>
+459 Mega Abomasnow <\/div>
+460 Abomasnow <\/div>
+461 Weavile <\/div>
+462 Magnezone <\/div>
+463 Lickilicky <\/div>
+464 Rhyperior <\/div>
+465 Tangrowth <\/div>
+466 Electivire <\/div>
+467 Magmortar <\/div>
+468 Togekiss <\/div>
+469 Yanmega <\/div>
+470 Leafeon <\/div>
+471 Glaceon <\/div>
+472 Gliscor <\/div>
+473 Mamoswine <\/div>
+474 Porygon-Z <\/div>
+474 Mega Gallade <\/div>
+475 Gallade <\/div>
+476 Probopass <\/div>
+477 Dusknoir <\/div>
+478 Froslass <\/div>
+479 Rotom <\/div>
+479 Mow Rotom<\/div>
+479 Fan Rotom<\/div>
+479 Frost Rotom<\/div>
+479 Wash Rotom<\/div>
+479 Heat Rotom<\/div>
+480 Uxie <\/div>
+481 Mesprit <\/div>
+482 Azelf <\/div>
+483 Dialga <\/div>
+484 Palkia <\/div>
+485 Heatran <\/div>
+486 Regigigas <\/div>
+487 Giratina <\/div>
+487 Giratina (Origin)<\/div>
+488 Cresselia <\/div>
+489 Phione <\/div>
+490 Manaphy <\/div>
+491 Darkrai <\/div>
+492 Shaymin <\/div>
+492 Shaymin (Sky)<\/div>
+493 Arceus <\/div>
+GEN 5<\/div>
+494 Victini <\/div>
+495 Snivy <\/div>
+496 Servine <\/div>
+497 Serperior <\/div>
+498 Tepig <\/div>
+499 Pignite <\/div>
+500 Emboar <\/div>
+501 Oshawott <\/div>
+<\/a><\/div>
+502 Dewott <\/div>
+503 Samurott <\/div>
+504 Patrat <\/div>
+505 Watchog <\/div>
+506 Lillipup <\/div>
+507 Herdier <\/div>
+508 Stoutland <\/div>
+509 Purrloin <\/div>
+510 Liepard <\/div>
+511 Pansage <\/div>
+512 Simisage <\/div>
+513 Pansear <\/div>
+514 Simisear <\/div>
+515 Panpour <\/div>
+516 Simipour <\/div>
+517 Munna <\/div>
+518 Musharna <\/div>
+519 Pidove <\/div>
+520 Tranquill <\/div>
+521 Unfezant <\/div>
+522 Blitzle <\/div>
+523 Zebstrika <\/div>
+524 Roggenrola <\/div>
+525 Boldore <\/div>
+526 Gigalith <\/div>
+527 Woobat <\/div>
+528 Swoobat <\/div>
+529 Drilbur <\/div>
+530 Excadrill <\/div>
+531 Audino <\/div>
+531 Mega Audino <\/div>
+532 Timburr <\/div>
+533 Gurdurr <\/div>
+534 Conkeldurr <\/div>
+535 Tympole <\/div>
+536 Palpitoad <\/div>
+537 Seismitoad <\/div>
+538 Throh <\/div>
+539 Sawk <\/div>
+540 Sewaddle <\/div>
+541 Swadloon <\/div>
+542 Leavanny <\/div>
+543 Venipede <\/div>
+544 Whirlipede <\/div>
+545 Scolipede <\/div>
+546 Cottonee <\/div>
+547 Whimsicott <\/div>
+548 Petilil <\/div>
+549 Lilligant <\/div>
+550 Basculin <\/div>
+550 Basculin (Blue Stripe)<\/div>
+551 Sandile <\/div>
+552 Krokorok <\/div>
+553 Krookodile <\/div>
+554 Darumaka <\/div>
+555 Darmanitan <\/div>
+555 Darmanitan (Zen)<\/div>
+556 Maractus <\/div>
+557 Dwebble <\/div>
+558 Crustle <\/div>
+559 Scraggy <\/div>
+560 Scrafty <\/div>
+561 Sigilyph <\/div>
+562 Yamask <\/div>
+563 Cofagrigus <\/div>
+564 Tirtouga <\/div>
+565 Carracosta <\/div>
+566 Archen <\/div>
+567 Archeops <\/div>
+568 Trubbish <\/div>
+569 Garbodor <\/div>
+570 Zorua <\/div>
+571 Zoroark <\/div>
+572 Minccino <\/div>
+573 Cinccino <\/div>
+574 Gothita <\/div>
+575 Gothorita <\/div>
+576 Gothitelle <\/div>
+577 Solosis <\/div>
+578 Duosion <\/div>
+579 Reuniclus <\/div>
+580 Ducklett <\/div>
+581 Swanna <\/div>
+582 Vanillite <\/div>
+583 Vanillish <\/div>
+584 Vanilluxe <\/div>
+585 Deerling <\/div>
+586 Sawsbuck <\/div>
+586 Sawsbuck (Autumn)<\/div>
+586 Sawsbuck (Winter)<\/div>
+586 Sawsbuck (Summer)<\/div>
+587 Emolga <\/div>
+588 Karrablast <\/div>
+589 Escavalier <\/div>
+590 Foongus <\/div>
+591 Amoonguss <\/div>
+592 Frillish <\/div>
+593 Jellicent <\/div>
+594 Alomomola <\/div>
+595 Joltik <\/div>
+596 Galvantula <\/div>
+597 Ferroseed <\/div>
+598 Ferrothorn <\/div>
+599 Klink <\/div>
+600 Klang <\/div>
+601 Klinklang <\/div>
+602 Tynamo <\/div>
+603 Eelektrik <\/div>
+604 Eelektross <\/div>
+605 Elgyem <\/div>
+606 Beheeyem <\/div>
+607 Litwick <\/div>
+608 Lampent <\/div>
+609 Chandelure <\/div>
+610 Axew <\/div>
+611 Fraxure <\/div>
+612 Haxorus <\/div>
+613 Cubchoo <\/div>
+614 Beartic <\/div>
+615 Cryogonal <\/div>
+616 Shelmet <\/div>
+617 Accelgor <\/div>
+618 Stunfisk <\/div>
+619 Mienfoo <\/div>
+620 Mienshao <\/div>
+621 Druddigon <\/div>
+622 Golett <\/div>
+623 Golurk <\/div>
+624 Pawniard <\/div>
+625 Bisharp <\/div>
+626 Bouffalant <\/div>
+627 Rufflet <\/div>
+628 Braviary <\/div>
+629 Vullaby <\/div>
+630 Mandibuzz <\/div>
+631 Heatmor <\/div>
+632 Durant <\/div>
+633 Deino <\/div>
+634 Zweilous <\/div>
+635 Hydreigon <\/div>
+636 Larvesta <\/div>
+637 Volcarona <\/div>
+638 Cobalion <\/div>
+639 Terrakion <\/div>
+640 Virizion <\/div>
+641 Tornadus <\/div>
+641 Tornadus (Therian)<\/div>
+642 Thundurus <\/div>
+642 Thundurus (Therian)<\/div>
+643 Reshiram <\/div>
+644 Zekrom <\/div>
+645 Landorus <\/div>
+645 Landorus (Therian)<\/div>
+646 Kyurem <\/div>
+646 Kyurem (Black)<\/div>
+646 Kyurem (White)<\/div>
+647 Keldeo <\/div>
+647 Keldeo (Resolution)<\/div>
+648 Meloetta <\/div>
+648 Meloetta (Pirouette)<\/div>
+649 Genesect <\/div>
+GEN 6<\/div>
+650 Chespin <\/div>
+651 Quilladin <\/div>
+652 Chesnaught <\/div>
+653 Fennekin <\/div>
+654 Braixen <\/div>
+655 Delphox <\/div>
+656 Froakie <\/div>
+657 Frogadier <\/div>
+<\/a><\/div>
+658 Greninja <\/div>
+659 Bunnelby <\/div>
+660 Diggersby <\/div>
+661 Fletchling <\/div>
+662 Fletchinder <\/div>
+663 Talonflame <\/div>
+664 Scatterbug <\/div>
+665 Spewpa <\/div>
+666 Vivillon <\/div>
+667 Litleo <\/div>
+668 Pyroar <\/div>
+668 Pyroar <\/div>
+669 Flab\u00e9b\u00e9 <\/div>
+670 Floette <\/div>
+671 Florges <\/div>
+672 Skiddo <\/div>
+673 Gogoat <\/div>
+674 Pancham <\/div>
+675 Pangoro <\/div>
+676 Furfrou <\/div>
+677 Espurr <\/div>
+678 Meowstic (\u2642)<\/div>
+678 Meowstic (\u2640)<\/div>
+679 Honedge <\/div>
+680 Doublade <\/div>
+681 Aegislash <\/div>
+681 Aegislash <\/div>
+682 Spritzee <\/div>
+683 Aromatisse <\/div>
+684 Swirlix <\/div>
+685 Slurpuff <\/div>
+686 Inkay <\/div>
+687 Malamar <\/div>
+688 Binacle <\/div>
+689 Barbaracle <\/div>
+690 Skrelp <\/div>
+691 Dragalge <\/div>
+692 Clauncher <\/div>
+693 Clawitzer <\/div>
+694 Helioptile <\/div>
+695 Heliolisk <\/div>
+696 Tyrunt <\/div>
+697 Tyrantrum <\/div>
+698 Amaura <\/div>
+699 Aurorus <\/div>
+700 Sylveon <\/div>
+701 Hawlucha <\/div>
+702 Dedenne <\/div>
+703 Carbink <\/div>
+704 Goomy <\/div>
+705 Sliggoo <\/div>
+706 Goodra <\/div>
+707 Klefki <\/div>
+708 Phantump <\/div>
+709 Trevenant <\/div>
+709 Trevenant <\/div>
+710 Pumpkaboo <\/div>
+711 Gourgeist <\/div>
+712 Bergmite <\/div>
+713 Avalugg <\/div>
+714 Noibat <\/div>
+715 Noivern <\/div>
+716 Xerneas <\/div>
+717 Yveltal <\/div>
+718 Zygarde (50%)<\/div>
+718 Zygarde (10%)<\/div>
+718 Zygarde (100%)<\/div>
+719 Diancie <\/div>
+719 Diancie <\/div>
+720 Hoopa <\/div>
+720 Hoopa <\/div>
+721 Volcanion <\/div>
+GEN 7<\/div>
+722 Rowlet <\/div>
+723 Dartrix <\/div>
+724 Decidueye <\/div>
+725 Litten <\/div>
+726 Torracat <\/div>
+727 Incineroar <\/div>
+728 Popplio <\/div>
+729 Brionne <\/div>
+<\/a><\/div>
+730 Primarina <\/div>
+731 Pikipek <\/div>
+732 Trumbeak <\/div>
+733 Toucannon <\/div>
+734 Yungoos <\/div>
+735 Gumshoos <\/div>
+736 Grubbin <\/div>
+737 Charjabug <\/div>
+738 Vikavolt <\/div>
+739 Crabrawler <\/div>
+740 Crabominable <\/div>
+741 Oricorio <\/div>
+741 Oricorio (Sensu)<\/div>
+741 Oricorio (P'au)<\/div>
+741 Oricorio (Pom-Pom)<\/div>
+742 Cutiefly <\/div>
+743 Ribombee <\/div>
+744 Rockruff <\/div>
+745 Lycanroc <\/div>
+745 Lycanroc (Midnight)<\/div>
+745 Lycanroc (Dusk)<\/div>
+746 Wishiwashi <\/div>
+746 Wishiwashi (School)<\/div>
+747 Mareanie <\/div>
+748 Toxapex <\/div>
+749 Mudbray <\/div>
+750 Mudsdale <\/div>
+751 Dewpider <\/div>
+752 Araquanid <\/div>
+753 Fomantis <\/div>
+754 Lurantis <\/div>
+755 Morelull <\/div>
+756 Shiinotic <\/div>
+757 Salandit <\/div>
+758 Salazzle <\/div>
+759 Stufful <\/div>
+760 Bewear <\/div>
+761 Bounsweet <\/div>
+762 Steenee <\/div>
+763 Tsareena <\/div>
+764 Comfey <\/div>
+765 Oranguru <\/div>
+766 Passimian <\/div>
+767 Wimpod <\/div>
+768 Golisopod <\/div>
+769 Sandygast <\/div>
+770 Palossand <\/div>
+771 Pyukumuku <\/div>
+772 Type: Null <\/div>
+773 Silvally <\/div>
+774 Minior <\/div>
+774 Minior (Meteorite)<\/div>
+775 Komala <\/div>
+776 Turtonator <\/div>
+777 Togedemaru <\/div>
+778 Mimikyu <\/div>
+779 Bruxish <\/div>
+780 Drampa <\/div>
+781 Dhelmise <\/div>
+782 Jangmo-o <\/div>
+783 Hakamo-o <\/div>
+784 Kommo-o <\/div>
+785 Tapu Koko <\/div>
+786 Tapu Lele <\/div>
+787 Tapu Bulu <\/div>
+788 Tapu Fini <\/div>
+789 Cosmog <\/div>
+790 Cosmoem <\/div>
+791 Solgaleo <\/div>
+792 Lunala <\/div>
+793 Nihilego <\/div>
+794 Buzzwole <\/div>
+795 Pheromosa <\/div>
+796 Xurkitree <\/div>
+797 Celesteela <\/div>
+798 Kartana <\/div>
+799 Guzzlord <\/div>
+800 Necrozma <\/div>
+800 Dusk Mane Necrozma <\/div>
+800 Ultra Necrozma <\/div>
+800 Dawn Wings Necrozma <\/div>
+801 Magearna <\/div>
+802 Marshadow <\/div>
+803 Poipole <\/div>
+804 Naganadel <\/div>
+805 Stakataka <\/div>
+806 Blacephalon <\/div>
+807 Zeraora <\/div>
+808 Meltan <\/div>
+809 Melmetal <\/div>
+GEN 8<\/div>
+828 Grookey <\/div>
+811 Thwackey<\/div>
+812 Rillaboom<\/div>
+829 Scorbunny <\/div>
+814 Raboot<\/div>
+815 Cinderace<\/div>
+830 Sobble <\/div>
+817 Drizzile<\/div>
+<\/a><\/div>
+818 Inteleon<\/div>
+819 Skwovet<\/div>
+820 Greedent<\/div>
+821 Rookidee<\/div>
+822 Corvisquire<\/div>
+835 Corviknight <\/div>
+824 Blipbug<\/div>
+825 Dottler<\/div>
+826 Orbeetle<\/div>
+827 Nickit<\/div>
+828 Thievul<\/div>
+831 Gossifleur<\/div>
+832 Eldegoss <\/div>
+833 Wooloo <\/div>
+832 Dubwool<\/div>
+833 Chewtle<\/div>
+838 Drednaw <\/div>
+836 Yamper <\/div>
+836 Boltund<\/div>
+834 Rolycoly <\/div>
+838 Carkol<\/div>
+839 Coalossal<\/div>
+840 Applin<\/div>
+841 Flapple<\/div>
+842 Appletun<\/div>
+843 Silicobra<\/div>
+844 Sandaconda<\/div>
+845 Cramorant<\/div>
+846 Arrokuda<\/div>
+847 Barraskewda<\/div>
+848 Toxel<\/div>
+849 Toxtricity<\/div>
+850 Sizzlipede<\/div>
+851 Centiskorch<\/div>
+852 Clobbopus<\/div>
+853 Grapploct<\/div>
+854 Sinistea<\/div>
+855 Polteageist<\/div>
+856 Hatenna<\/div>
+857 Hattrem<\/div>
+858 Hatterene<\/div>
+837 Impidimp <\/div>
+860 Morgrem<\/div>
+861 Grimmsnarl<\/div>
+862 Obstagoon<\/div>
+863 Perrserker<\/div>
+864 Cursola<\/div>
+865 Sirfetch\u2019d<\/div>
+866 Mr. Rime<\/div>
+867 Runerigus<\/div>
+868 Milcery<\/div>
+869 Alcremie<\/div>
+870 Falinks<\/div>
+871 Pincurchin<\/div>
+872 Snom<\/div>
+873 Frosmoth<\/div>
+874 Stonjourner<\/div>
+875 Eiscue<\/div>
+876 Indeedee\u2642<\/div>
+876 Indeedee\u2640<\/div>
+877 Morpeko<\/div>
+878 Cufant<\/div>
+879 Copperajah<\/div>
+880 Dracozolt<\/div>
+881 Arctozolt<\/div>
+882 Dracovish<\/div>
+883 Arctovish<\/div>
+839 Duraludon <\/div>
+885 Dreepy<\/div>
+886 Drakloak<\/div>
+887 Dragapult<\/div>
+888 Zacian (Crowned)<\/div>
+888 Zacian v2 (Crowned)<\/div>
+888 Zacian<\/div>
+889 Zamazenta (Crowned)<\/div>
+889 Zamazenta v2 (Crowned)<\/div>
+889 Zamazenta<\/div>
+890 Eternatus<\/div>
+891 Kubfu<\/div>
+892 Urshifu<\/div>
+892 Urshifu<\/div>
+894 Regieleki<\/div>
+893 Zarude<\/div>
+895 Regidrago<\/div>
+898 Calyrex<\/div>
+GEN 9<\/div>
+<\/a><\/div>
+906 Sprigatito<\/div>
+907 Floragato<\/div>
+908 Meowscarada<\/div>
+909 Fuecoco<\/div>
+910 Crocalor<\/div>
+911 Skeledirge<\/div>
+912 Quaxly<\/div>
+913 Quaxwell<\/div>
+914 Quaquaval<\/div>
+915 Lechonk<\/div>
+916 Oinkologne\u2642\ufe0f<\/div>
+916 Oinkologne\u2640<\/div>
+917 Tarountula<\/div>
+918 Spidops<\/div>
+919 Nymble<\/div>
+920 Lokix<\/div>
+921 Pawmi<\/div>
+922 Pawmo<\/div>
+923 Pawmot<\/div>
+924 Tandemaus<\/div>
+925 Maushold (Fo3)<\/div>
+925 Maushold (Fo4)<\/div>
+926 Fidough<\/div>
+927 Dachsbun<\/div>
+928 Smoliv<\/div>
+929 Dolliv<\/div>
+930 Arboliva<\/div>
+931 Squawkabilly (Red)<\/div>
+931 Squawkabilly (Yellow)<\/div>
+931 Squawkabilly (Green)<\/div>
+931 Squawkabilly (Blue)<\/div>
+932 Nacli<\/div>
+933 Naclstack<\/div>
+934 Garganacl<\/div>
+935 Charcadet<\/div>
+936 Armarouge<\/div>
+937 Ceruledge<\/div>
+938 Tadbulb<\/div>
+939 Bellibolt<\/div>
+940 Wattrel<\/div>
+941 Kilowattrel<\/div>
+942 Maschiff<\/div>
+943 Mabosstiff<\/div>
+944 Shroodle<\/div>
+945 Grafaiai<\/div>
+946 Bramblin<\/div>
+947 Brambleghast<\/div>
+948 Toedscool<\/div>
+949 Toedscruel<\/div>
+950 Klawf<\/div>
+951 Capsakid<\/div>
+952 Scovillain<\/div>
+953 Rellor<\/div>
+954 Rabsca<\/div>
+955 Flittle<\/div>
+956 Espathra<\/div>
+957 Tinkatink<\/div>
+958 Tinkatuff<\/div>
+959 Tinkaton<\/div>
+960 Wiglett<\/div>
+961 Wugtrio<\/div>
+962 Bombirdier<\/div>
+963 Finizen<\/div>
+964 Palafin (Zero)<\/div>
+964 Palafin (Hero)<\/div>
+965 Varoom<\/div>
+966 Revavroom<\/div>
+967 Cyclizar<\/div>
+968 Orthworm<\/div>
+969 Glimmet<\/div>
+970 Glimmora<\/div>
+971 Greavard<\/div>
+972 Houndstone<\/div>
+973 Flamigo<\/div>
+974 Cetoddle<\/div>
+975 Cetitan<\/div>
+976 Veluza<\/div>
+977 Dondozo<\/div>
+978 Tatsugiri (Curly)<\/div>
+979 Tatsugiri (Droopy)<\/div>
+979 Tatsugiri (Stretchy)<\/div>
+979 Annihilape<\/div>
+980 Clodsire<\/div>
+981 Farigiraf<\/div>
+982 Dudunsparce (Two-Segment)<\/div>
+983 Dudunsparce (Three-Segment)<\/div>
+983 Kingambit<\/div>
+984 Great Tusk<\/div>
+985 Scream Tail<\/div>
+986 Brute Bonnet<\/div>
+987 Flutter Mane<\/div>
+988 Slither Wing<\/div>
+989 Sandy Shocks<\/div>
+990 Iron Treads<\/div>
+994 Iron Bundle<\/div>
+993 Iron Hands<\/div>
+992 Iron Jugulis<\/div>
+991 Iron Moth<\/div>
+995 Iron Thorns<\/div>
+996 Frigibax<\/div>
+997 Arctibax<\/div>
+998 Baxcalibur<\/div>
+999 Gimmighoul (Chest)<\/div>
+999 Gimmighoul<\/div>
+1000 Gholdengo<\/div>
+1001 Wo-Chien<\/div>
+1002 Chien-Pao<\/div>
+1003 Ting-Lu<\/div>
+1004 Chi-Yu<\/div>
+1005 Roaring Moon<\/div>
+1006 Iron Valiant<\/div>
+1007 Koraidon<\/div>
+1008 Miraidon<\/div>"
